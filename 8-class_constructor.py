@@ -22,7 +22,7 @@ class Teacher(Person):
         print("Subject:", self.subject)
 
 # Creating an object of the Teacher class
-teacher1 = Teacher("Alice", "Mathematics")
+teacher1 = Teacher("kashif", "Mathematics")
 
 # Displaying teacher details
 teacher1.display()
